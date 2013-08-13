@@ -1,0 +1,6 @@
+[submodule "better-defaults"]
+	path = better-defaults
+	url = git://github.com/technomancy/better-defaults.git
+[submodule "noctilux-theme"]
+	path = noctilux-theme
+	url = git@github.com:stafu/noctilux-theme.git
